@@ -1,8 +1,7 @@
 # ETL-Project
 
 
-![image-2.png](attachment:image-2.png)
-
+![ETL_project](https://user-images.githubusercontent.com/91336624/152767198-707fb077-0288-4506-ae2b-307e1cb61e23.png)
 
 #### Group Members : Josh Lowe, Kelly Knight-Pelles, Sam Walker, Kaumudi Mendis
 
