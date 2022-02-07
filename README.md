@@ -5,9 +5,8 @@
 
 #### Group Members : Josh Lowe, Kelly Knight-Pelles, Sam Walker, Kaumudi Mendis
 
-#### The topic was chosen to - compare ESRB ratings, game scores and global sales for Game title. 
 
-Comparing Video Game Sales, Ratings and Scores (1994-2016)
+# Comparing Video Game Sales, Ratings and Scores (1994-2016)
 
 ## Extract
 
