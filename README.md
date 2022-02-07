@@ -55,5 +55,5 @@ In Postgres, we ensured two tables that reflected the Pandas dataframes were cre
 
 Once transformed, we loaded the data into the database using the SQLAlchemy create_engine() function and the pandas .to_sql() function
 
-Proof of import was given through a join of the tables within the database.
+Proof of import was given through a join of the ratings and sales tables within the database.
 
