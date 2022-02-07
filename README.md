@@ -26,3 +26,5 @@ Joined tables on Game Titles to compare ratings and Sales for each Game Title.
 
 
 ### The topic was chosen to - compare ESRB ratings, game scores and global sales for Game title. 
+
+
