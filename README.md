@@ -13,8 +13,9 @@ For this project,  data files in CSV format were extracted using below data sour
 
 
 
-Data were formatted using Pandas and Python data frames.
-Cleared the data with Drop, Join process. 
+Data were imported and formatted using Pandas and Python and following libraries.
+
+Cleared the data with Drop,Merge,Join process. 
 
 Final two csv used for transformation are ratings.csv and sales.csv.
 
