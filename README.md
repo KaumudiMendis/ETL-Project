@@ -1,10 +1,10 @@
 # ETL-Project
-
+###### Group Members : Josh Lowe, Kelly Knight-Pelles, Sam Walker, Kaumudi Mendis
 
 ![image-2.png](attachment:image-2.png)
 
 
-#### Group Members : Josh Lowe, Kelly Knight-Pelles, Sam Walker, Kaumudi Mendis
+
 
 #### The topic was chosen to - compare ESRB ratings, game scores and global sales for Game title. 
 
