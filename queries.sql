@@ -1,21 +1,23 @@
 -- Create tables for raw data to be loaded into
 CREATE TABLE ratings (
-id INT PRIMARY KEY,
 Game_Title TEXT,
+Platform TEXT,
 ESRB_Rating TEXT,
 Metascore INT,
-User_Score DECIMAL, 
+User_Score DECIMAL
 );
 
 CREATE TABLE sales (
-id INT PRIMARY KEY,
 Game_Title TEXT,
+Platform TEXT,
 Global_Sales TEXT
 );
 
 
+
 -- Joins tables
-SELECT ratings.id, ratings.Game_Title, ratings.ESRB_Rating, ratings.Metascore, ratings.User_Score, sales.Game
+SELECT ratings.Game_Title, ratings.platform, ratings.ESRB_Rating, ratings.Metascore, ratings.User_Score, sales.Global_Sales
 FROM ratings
 JOIN sales
 ON ratings.Game_Title = sales.Game_Title
+AND ratings.platform = sales.platform
