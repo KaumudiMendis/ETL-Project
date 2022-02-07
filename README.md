@@ -4,7 +4,9 @@
 ![image-2.png](attachment:image-2.png)
 
 
-### Group Members : Josh Lowe, Kelly Knight-Pelles, Sam Walker, Kaumudi Mendis
+#### Group Members : Josh Lowe, Kelly Knight-Pelles, Sam Walker, Kaumudi Mendis
+
+#### The topic was chosen to - compare ESRB ratings, game scores and global sales for Game title. 
 
 For this project,  data files in CSV format were extracted using below data sources. 
 
@@ -13,9 +15,9 @@ For this project,  data files in CSV format were extracted using below data sour
 
 
 
-Data were imported and formatted using Pandas and Python and following libraries.
+Data were imported and formatted using Python Pandas and SQL Alchemy libraries.
 
-Cleared the data with Drop,Merge,Join process. 
+Cleared the data with Drop, Merge, Join process. 
 
 Final two csv used for transformation are ratings.csv and sales.csv.
 
@@ -27,6 +29,6 @@ Created table rating, and sales
 Joined tables on Game Titles to compare ratings and Sales for each Game Title. 
 
 
-### The topic was chosen to - compare ESRB ratings, game scores and global sales for Game title. 
+
 
 
