@@ -12,7 +12,7 @@ For this project,  datasets in CSV format were extracted from the below sources.
       Ratings Source  - https://www.kaggle.com/tyedwardse/metacritic-game-scores?select=metascrape.csv
       Sales Source    - https://www.kaggle.com/atharvaingle/video-games-dataset
 
-Our goal is to produce a PostgreSQL database to hold two tables created from the above sources.
+Our goal is to produce a PostgreSQL database to hold two tables created from the above sources, and also a table with the tables joined together.
 
 Overall we hope that the data we have transformed can be used to analyse how a video games sales track, compared to their rating.
 
